@@ -1,0 +1,28 @@
+.content .simg{
+	width: 500px;
+}
+
+.content .Fbox{
+	height: 400px !important;
+	overflow-y: auto;
+	padding-bottom: 5px;
+}
+
+.content .Fbox .img img{
+	max-width: 55px;
+}
+
+
+@media(min-width: 768px){
+	.content .cusbtn .dropdown-submenu {
+	    position: relative;
+	    /* width: 150px !important; */
+	}
+
+	.content .cusbtn .dropdown-submenu .dropdown-menu {
+	    top: 0;
+	    left: 100%;
+	    margin-top: -1px;
+	    width: 180px !important;
+	}
+}

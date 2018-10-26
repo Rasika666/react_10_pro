@@ -1,0 +1,6 @@
+.table{
+	overflow-x: auto;
+}
+.table thead th{
+	border-bottom: 2px solid #A81933 ; 	
+}
